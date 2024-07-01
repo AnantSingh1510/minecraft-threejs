@@ -1,6 +1,4 @@
-# Minecraft Clone in React with Three.js
-
-![Minecraft Clone](minecraft-screenshot.png)
+# Minecraft in React with Three.js
 
 A Minecraft clone project built using React and Three.js. This project aims to replicate the basic functionality and visual style of Minecraft within a web environment.
 
