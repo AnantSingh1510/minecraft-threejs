@@ -12,7 +12,7 @@ A Minecraft clone project built using React and Three.js. This project aims to r
 
 ## Demo
 
-[Link to Live Demo](#) [*(Add live demo link when available)*](https://minecraft-threejs-kappa.vercel.app/)
+[Link to Live Demo](#)(https://minecraft-threejs-kappa.vercel.app/)
 
 ## Installation
 
