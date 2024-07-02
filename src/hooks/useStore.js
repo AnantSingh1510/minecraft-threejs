@@ -11,6 +11,11 @@ export const useStore = create((set) => ({
 		key: nanoid(),
 		pos: [2, 0.5, 0],
 		texture: 'dirt'
+	},
+	{
+		key: nanoid(),
+		pos: [2, 0.5, 1],
+		texture: 'wood'
 	}],
 	addCube: (x, y, z) => {
 		set((prev) => ({
