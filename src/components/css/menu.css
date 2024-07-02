@@ -1,0 +1,38 @@
+.menu-container {
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    top: 20px;
+    width: 100%;
+    z-index: 10;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent background */
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Optional: add a subtle shadow */
+}
+
+.minecraft-button {
+    background-color: #4a4a4a;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    padding: 10px 20px;
+    margin: 0 5px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.minecraft-button:hover {
+    background-color: #666666;
+}
